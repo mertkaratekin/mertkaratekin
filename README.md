@@ -1,8 +1,8 @@
                                                             Hi 👋, I'm Mert
                                       
                                                 A computer engineering student from Turkey
-
-![MERT KARATEKİN](https://user-images.githubusercontent.com/80035118/226620161-3a5b9e16-66bc-4c9a-b0b2-e0196edeb4f4.png)
+                                                
+![MERT KARATEKİN (1)](https://user-images.githubusercontent.com/80035118/226667985-d4219639-fe40-46d2-aefb-5d6abc41c8f3.png)
 
       
 • 📧 mertqkaratekin@gmail.com                                                
