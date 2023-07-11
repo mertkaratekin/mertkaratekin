@@ -3,7 +3,10 @@
                                                 A computer engineering student from Turkey
                                                 
 ![MERT KARATEKİN (1)](https://user-images.githubusercontent.com/80035118/226667985-d4219639-fe40-46d2-aefb-5d6abc41c8f3.png)   • 📧 mertqkaratekin@gmail.com                                                
-• [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
+
+• [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)]
+•[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)
+
 
 • [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-000?style=quare&labelColor=000&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/mert-karatekin-577a29202/) 
 
