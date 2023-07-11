@@ -11,4 +11,4 @@
 
 • [![Mert's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaratekin&theme=blue-green)](https://github.com/mertkaratekin/github-readme-md.)
 
-
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=mertkaratekin&theme=blue-green)](https://github.com/mertkaratekin/github-readme-streak-stats)
