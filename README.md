@@ -13,6 +13,5 @@
  
 [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-000?style=quare&labelColor=000&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/mert-karatekin-577a29202/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-000?style=quare&labelColor=000&logo=gmail&logoColor=white&link=link)](https://mail.google.com/mail/u/1/#inbox) 
 
 
