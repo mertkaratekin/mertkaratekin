@@ -9,5 +9,4 @@
 
 • [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-000?style=quare&labelColor=000&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/mert-karatekin-577a29202/) 
 
-• ![Linkedln](C:\Users\mert1\Downloads\294671_linkedin_icon.png)
 
