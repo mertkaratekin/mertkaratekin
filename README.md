@@ -9,6 +9,6 @@
 
 • [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-000?style=quare&labelColor=000&logo=Linkedln&logoColor=white&link=link)](https://www.linkedin.com/in/mert-karatekin-577a29202/) 
 
-• [![Mert's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)](https://github.com/mertkaratekin/github-readme-md.)
+• [![Mert's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mertkaratekin&theme=blue-green)](https://github.com/mertkaratekin/github-readme-md.)
 
 
