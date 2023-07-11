@@ -13,6 +13,6 @@
 
 [![Linkedln Badge](https://img.shields.io/badge/-Linkedln-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.linkedin.com/in/mert-karatekin-577a29202/) 
 
-
+[![Linkedln Badge](https://icons8.com/icon/xuvGCOXi8Wyg/linkedin)](https://www.linkedin.com/in/mert-karatekin-577a29202/) 
 
 
